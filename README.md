@@ -12,6 +12,25 @@ Graph of functions like logarithm, exponential and trigonometric
 
 # Output Graphs
 
+### 1. Input
+<img src="https://github.com/suyashphatak23/Function-Graphs/blob/master/images/1.JPG" title="Input" width="1000px" height="200px" alt="Input Image">
+
+### 2. Sine VS Cosine Curve
+
+<img src="https://github.com/suyashphatak23/Function-Graphs/blob/master/images/3.JPG" title="Sin VS Cos" width="1200px" height="500px" alt="Sine and cosine curve">
+
+### 3. Tangent Curve
+
+<img src="https://github.com/suyashphatak23/Function-Graphs/blob/master/images/2.JPG" title="Tan" width="1200px" height="500px" alt="Tangent Curve">
+
+### 4. Exponential Curve
+
+<img src="https://github.com/suyashphatak23/Function-Graphs/blob/master/images/4.JPG" title="Exponent 2" width="1200px" height="500px" alt="Exponential Curve">
+
+### 5. Logarithmic Curve
+
+<img src="https://github.com/suyashphatak23/Function-Graphs/blob/master/images/5.JPG" title="Log" width="1200px" height="500px" alt="Logaritmic curve">
+
 # Clone
 
 ***Clone this repo to your local machine using*** **https://github.com/suyashphatak23/Fuction-Graphs**
