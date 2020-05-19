@@ -1,7 +1,7 @@
 
 <a href="https://numpy.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png" title="Numpy" width="500px" height="200px" alt="Numpy"></a>
 
-<a href="https://numpy.org"><img src="https://matplotlib.org/_static/logo2_compressed.svg" title="Matplotlib" width="500px" height="200px" alt="Matplotlib"></a>
+<a href="https://matplotlib.org"><img src="https://matplotlib.org/_static/logo2_compressed.svg" title="Matplotlib" width="500px" height="200px" alt="Matplotlib"></a>
 
 # Graphs of Mathematical Funtions
 
