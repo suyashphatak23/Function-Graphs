@@ -6,7 +6,7 @@
 
 # Graphs of Mathematical Funtions
 
-Graph of functions like logarithm, exponential and trigonometric
+In this project, I have used numpy and matplolib python libraries for generating values and plotting it on graphs. This had just a experiencce in using graphs and numpy array functions. I had enjoyed doing it.
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
